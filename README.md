@@ -1,2 +1,4 @@
-# goit-markup-hw-02
-Домашнее задание №2 Stanislav Ovcharenko
+# goit-markup-hw-01
+
+Домашнее задание №1
+Stanislav Ovcharenko
